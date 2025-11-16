@@ -7,6 +7,7 @@ Ingredients:
     - if you wanna be fancy, make a bur monte sauce and make sure to bake the base layer enough to make it crispy
     - the extra creaminess of the butter helps it distribute much "butter" (get it?)
     - should try this without the bur monte as well
+    - the bur monte sauce made the base too soft and it didn't crisp up correctly
 - 1/4 cup granulated sugar
 - 1/2 cup toffee bits
     - these are impossible to find, use butterscotch bits instead if needed
@@ -19,6 +20,8 @@ Instructions:
 3. Press the crumb mixture into the bottom of a *greased* 9x13-inch baking dish.
 4. Bake for 12-15 minutes or until slightly golden. Allow to cool while you prepare the next layer.
     - Really gotta bake for longer than this if you want the base to hold together more and be crispy
+    - 21 minutes in a glass 9x13 dish
+    - gotta let it cool to let it get crispy
 
 ### Cream Cheese Layer
 Ingredients:
@@ -32,7 +35,8 @@ Instructions:
 1. In a bowl, beat the softened cream cheese with powdered sugar and vanilla extract until smooth.
 2. In another bowl, whip heavy cream until stiff peaks form.
 3. Gently fold the whipped cream into the cream cheese mixture until uniformly mixed.
-4. Spread the cream cheese mixture over the cooled crust. Refrigerate while you prepare the cranberry compote.
+4. Alternatively, buy whipped topping, put everything in one bowl and beat the shit out of it. It's ridiculously easier.
+5. Spread the cream cheese mixture over the cooled crust. Refrigerate while you prepare the cranberry compote.
 
 ### Cranberry Compote Topping
 Ingredients:
@@ -46,10 +50,13 @@ Ingredients:
 - 1/2 cup sugar (adjust based on your preference for sweetness)
 - Zest of one orange
 
+Doubling the above and then subbing in lemon juice for 1/8 cup of OJ works great.
+
 Instructions:
-1. In a saucepan over medium heat, combine cranberries, orange juice, sugar, and orange zest.
-2. Cook, stirring occasionally, until the cranberries burst and the mixture thickens, about 10-15 minutes.
-3. Allow to cool slightly, then pour over the cream cheese layer.
-4. Refrigerate the dessert for at least 4 hours, or overnight, until set.
+1. In a saucepan over medium-low heat, combine cranberries, orange juice, sugar, and orange zest.
+   - medium heat makes it stick and then the berries pop aggressively. Medium-low still takes like 10-15 minutes
+3. Cook, stirring occasionally, until the cranberries burst and the mixture thickens, about 10-15 minutes.
+4. Allow to cool slightly, then pour over the cream cheese layer.
+5. Refrigerate the dessert for at least 4 hours, or overnight, until set.
 
 Feel free to adjust the amounts of the ingredients based on your taste preferences and the size of your dish. This dessert combines a delightful mix of textures and flavors, from the crunchy, sweet base to the creamy middle and the tangy, fruity top. Enjoy your creation!
